@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive cache="" description="One for all" gfx="balance.png" name="Balance" />
+</items>
